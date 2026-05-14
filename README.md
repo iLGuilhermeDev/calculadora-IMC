@@ -11,17 +11,16 @@ Calculadora de Índice de Massa Corporal com interface gráfica (Tkinter).
 
 ## Capturas de tela
 
-Tela inicial:
-![Tela inicial](print/telainicial.png)
-
-Abaixo do peso:
-![Abaixo do peso](print/telabaixopeso.png)
-
-Peso normal:
-![Peso normal](print/telapnormal.png)
-
-Sobrepeso:
-![Sobrepeso](print/telasobrepeso.png)
+<table>
+<tr>
+ <td align="center"><b>Tela inicial</b><br><img src="print/telainicial.png" width="300"></td>
+ <td align="center"><b>Abaixo do peso</b><br><img src="print/telabaixopeso.png" width="300"></td>
+</tr>
+<tr>
+ <td align="center"><b>Peso normal</b><br><img src="print/telapnormal.png" width="300"></td>
+ <td align="center"><b>Sobrepeso</b><br><img src="print/telasobrepeso.png" width="300"></td>
+</tr>
+</table>
 
 ## Classificação
 
