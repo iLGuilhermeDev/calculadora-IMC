@@ -1,5 +1,5 @@
-﻿# calculadora-IMC
- 
+# Calculadora de IMC
+
 Calculadora de Índice de Massa Corporal com interface gráfica (Tkinter).
 
 ## Como usar
@@ -8,6 +8,20 @@ Calculadora de Índice de Massa Corporal com interface gráfica (Tkinter).
 2. Execute o arquivo:
 3. Digite peso (kg) e altura (m)
 4. Clique em "Calcular IMC"
+
+## Capturas de tela
+
+Tela inicial:
+![Tela inicial](telainicial.png)
+
+Exemplo - Abaixo do peso:
+![Abaixo do peso](telabaixopeso.png)
+
+Exemplo - Peso normal:
+![Peso normal](telapnormal.png)
+
+Exemplo - Sobrepeso:
+![Sobrepeso](telasobrepeso.png)
 
 ## Classificação
 
