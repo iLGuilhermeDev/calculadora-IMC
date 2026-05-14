@@ -5,37 +5,34 @@ Calculadora de Índice de Massa Corporal com interface gráfica (Tkinter).
 ## Como usar
 
 1. Tenha Python instalado
-2. Execute o arquivo:
+2. Execute o arquivo: `python calculadora_imc.py`
 3. Digite peso (kg) e altura (m)
 4. Clique em "Calcular IMC"
 
 ## Capturas de tela
 
-<table>
-<tr>
- <td align="center"><b>Tela inicial</b><br><img src="print/telainicial.png" width="300"></td>
- <td align="center"><b>Abaixo do peso</b><br><img src="print/telabaixopeso.png" width="300"></td>
-</tr>
-<tr>
- <td align="center"><b>Peso normal</b><br><img src="print/telapnormal.png" width="300"></td>
- <td align="center"><b>Sobrepeso</b><br><img src="print/telasobrepeso.png" width="300"></td>
-</tr>
-</table>
+**Tela inicial**  
+<img src="https://raw.githubusercontent.com/iLGuilhermeDev/calculadora-IMC/main/prints/telainicial.png" width="400">
+
+**Abaixo do peso**  
+<img src="https://raw.githubusercontent.com/iLGuilhermeDev/calculadora-IMC/main/prints/telabaixopeso.png" width="400">
+
+**Peso normal**  
+<img src="https://raw.githubusercontent.com/iLGuilhermeDev/calculadora-IMC/main/prints/telapnormal.png" width="400">
+
+**Sobrepeso**  
+<img src="https://raw.githubusercontent.com/iLGuilhermeDev/calculadora-IMC/main/prints/telasobrepeso.png" width="400">
 
 ## Classificação
 
-- Menos de 18.5: Abaixo do peso
-- 18.5 - 24.9: Peso normal
-- 25 - 29.9: Sobrepeso
-- 30 - 34.9: Obesidade grau I
-- 35 - 39.9: Obesidade grau II
-- Acima de 40: Obesidade grau III
+- Menos de 18.5 → Abaixo do peso
+- 18.5 – 24.9 → Peso normal
+- 25 – 29.9 → Sobrepeso
+- 30 – 34.9 → Obesidade grau I
+- 35 – 39.9 → Obesidade grau II
+- Acima de 40 → Obesidade grau III
 
 ## Tecnologias
 
 - Python 3
-- Tkinter (padrão do Python)
-
-## Autor
-
-Guilherme
+- Tkinter
