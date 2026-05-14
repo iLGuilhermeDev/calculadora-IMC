@@ -12,16 +12,16 @@ Calculadora de Índice de Massa Corporal com interface gráfica (Tkinter).
 ## Capturas de tela
 
 Tela inicial:
-![Tela inicial](telainicial.png)
+![Tela inicial](print/telainicial.png)
 
-Exemplo - Abaixo do peso:
-![Abaixo do peso](telabaixopeso.png)
+Abaixo do peso:
+![Abaixo do peso](print/telabaixopeso.png)
 
-Exemplo - Peso normal:
-![Peso normal](telapnormal.png)
+Peso normal:
+![Peso normal](print/telapnormal.png)
 
-Exemplo - Sobrepeso:
-![Sobrepeso](telasobrepeso.png)
+Sobrepeso:
+![Sobrepeso](print/telasobrepeso.png)
 
 ## Classificação
 
@@ -36,3 +36,7 @@ Exemplo - Sobrepeso:
 
 - Python 3
 - Tkinter (padrão do Python)
+
+## Autor
+
+Guilherme
